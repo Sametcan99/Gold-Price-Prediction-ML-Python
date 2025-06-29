@@ -96,7 +96,7 @@ Explained Variance Score
 Visualized actual vs. predicted gold prices for each model to provide a qualitative assessment of predictive accuracy.
 
 # 📈 Key Findings & Solution
-The Random Forest Regressor emerged as the most effective model for predicting gold prices in this dataset. It consistently demonstrated superior prediction accuracy and lower error rates (e.g., highest R-squared, lowest MAE) compared to the other models tested. This detailed comparative analysis provided valuable insights into the strengths and limitations of different machine learning approaches for financial time-series prediction.
+The Random Forest Regressor emerged as the most effective model for predicting gold prices in this dataset. It consistently demonstrated superior prediction accuracy and lower error rates (e.g., highest R-squared, lowest MAE) compared to the other models tested. While my model captures a significant portion of the variance, some non-linear relationships and events might not be fully accounted for. A very high R-squared on the testing data could potentially indicate overfitting..
 
 # 🛠️ Technologies & Tools
 Python: Primary programming language.
