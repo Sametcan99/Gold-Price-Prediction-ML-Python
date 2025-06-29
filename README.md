@@ -1,5 +1,3 @@
-# Gold-Price-Prediction-ML-Python
-
 # Gold Price Prediction using Machine Learning (Python)
 This repository hosts a machine learning project, developed as part of a group, aimed at predicting historical gold prices. The project utilizes various economic indicators and implements a comprehensive data analysis pipeline, from preprocessing and exploratory analysis to outlier detection, model application, and rigorous evaluation, to identify the most effective predictive model.
 
